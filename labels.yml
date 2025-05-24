@@ -1,0 +1,84 @@
+# AREA / DOMAIN LABELS
+- name: backend
+  color: "bfdadc"
+  description: Backend services, APIs, data processing
+
+- name: database
+  color: "bfdadc"
+  description: Schema, migrations, query optimization, storage
+
+- name: security
+  color: "bfdadc"
+  description: Authentication, authorization, secrets, threat mitigation
+
+- name: ux
+  color: "bfdadc"
+  description: User experience and interaction design
+
+- name: marketing
+  color: "bfdadc"
+  description: Outreach, copy, campaigns, and SEO
+
+# TECH STACK
+- name: javascript
+  color: "c5def5"
+  description: React, Next.js, or frontend JS frameworks
+
+- name: android
+  color: "c5def5"
+  description: Android mobile development
+
+- name: infrastructure
+  color: "c5def5"
+  description: Infrastructure-as-code and cloud provisioning
+
+- name: pytorch
+  color: "c5def5"
+  description: ML training and inference with PyTorch
+
+# EFFORT ESTIMATES (T-SHIRT SIZES)
+- name: effort:S
+  color: "e3b7ff"
+  description: ≤ 2 hours
+
+- name: effort:M
+  color: "e3b7ff"
+  description: ~1–2 days
+
+- name: effort:L
+  color: "e3b7ff"
+  description: ~3–5 days
+
+- name: effort:XL
+  color: "e3b7ff"
+  description: More than one sprint
+
+# NEEDS / BLOCKERS
+- name: needs-design
+  color: "ffd5b5"
+  description: Requires design input or mockups
+
+- name: needs-review
+  color: "ffd5b5"
+  description: Awaiting code or content review
+
+- name: needs-api-spec
+  color: "ffd5b5"
+  description: Blocked pending API definition
+
+# META / WORKFLOW
+- name: epic
+  color: "d4c5f9"
+  description: High-level initiative tracking multiple issues
+
+- name: duplicate
+  color: "cccccc"
+  description: This issue or PR already exists
+
+- name: wontfix
+  color: "ffffff"
+  description: Acknowledged but will not be addressed
+
+- name: good first issue
+  color: "0cf4b5"
+  description: Good for first-time contributors or onboarding
