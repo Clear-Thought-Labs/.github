@@ -28,6 +28,10 @@
   color: "c5def5"
   description: Android mobile development
 
+- name: ios
+  color: "c5def5"
+  description: iOS mobile development with Swift or SwiftUI
+
 - name: infrastructure
   color: "c5def5"
   description: Infrastructure-as-code and cloud provisioning
