@@ -1,12 +1,12 @@
 
-# Frozen Gravity (Temporary Name)
+# Clear Thought Labs
 
 **Artificial Intelligence as Thought Partner**
 Building the tools to think better—together.
 
 ## Overview
 
-Welcome to the GitHub organization for **Frozen Gravity**, a research and product development lab focused on exploring artificial intelligence as a *thought partner*—not a tool for quick answers, but a collaborator in better thinking.
+Welcome to the GitHub organization for **Clear Thought Labs**, a research and product development lab focused on exploring artificial intelligence as a *thought partner*—not a tool for quick answers, but a collaborator in better thinking.
 
 Inspired by the essay ["As We May Yet Think"](https://12nw.substack.com/p/as-we-may-yet-think) and 80 years of inquiry into the nature of human cognition, we believe the next frontier in AI is not automation, but augmentation of *mature thought*. Our mission is to build systems that support reflective decision-making, encourage rational deliberation, and mitigate cognitive biases through dialogue.
 
